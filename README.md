@@ -1,4 +1,4 @@
-# Image Classification with ResNet and Gradio
+# Image Classifier
 
 A simple deep learning app that uses a pre-trained ResNet-18 model from PyTorch to classify images into ImageNet categories. It uses Gradio for an interactive web interface.
 
